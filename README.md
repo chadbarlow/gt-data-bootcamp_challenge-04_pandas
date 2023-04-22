@@ -1,4 +1,4 @@
-<h1 align="left">PANDAS<br><i>Topic: School Performance Analysis</i> </h1> 
+<h1 align="left">pandas<br><i>Topic: School Performance Analysis</i> </h1> 
 
 <p>This project analyzes a city school district's standardized test results to identify trends in school performance. The data includes math and reading scores for each student along with various information on the schools they attend.
 </p>
